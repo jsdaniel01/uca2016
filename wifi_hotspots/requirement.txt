@@ -11,3 +11,5 @@ As user:
 4. I should be able to nevigate to that location (just launch google maps)
 5. I should be able to view my history (places I nevigated to)
 6. Share my experice on social media
+
+Saini
